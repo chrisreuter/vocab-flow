@@ -1,0 +1,11 @@
+Sprichst du Deutsch?	Do you speak German?
+Wie heißt du?	What's your name?
+Woher kommst du?	Where are you from?
+Was machst du hier (in Berlin)?	What are you doing here (in Berlin)?
+Seit wann bist du hier?	...
+Gefällt es dir hier (in Berlin)?	...
+Wie lange bleibst du?	How long are you staying?
+Wo wohnst du (hier in Berlin)?	Where are you staying (in Berlin)?
+Studierst du oder arbeitest du hier?	Are you studying or working ?
+Was machst du hier bei diesem Meetup?	What are you doing here at this meetup?
+Wo hast du so gut Deutsch gelernt?	Where have you learnt German so well?
